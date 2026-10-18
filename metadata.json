@@ -1,0 +1,8 @@
+{
+  "name": "Portal Pals",
+  "description": "A vibrant 2.5D isometric platform exploration game across floating islands with star gem collection, portal goal, character customization, and leaderboard support.",
+  "prompt": "Rewrite Portal Pals in React with Vite, TypeScript, and modern responsive components while preserving all core game physics, isometric rendering, and start.ng integration.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
